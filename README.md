@@ -1,7 +1,12 @@
-NAME   MUHAMMAD ABU ZAR
-REGISTRATION NUMBER  L1F25BSCS0248
-Q1 STOCK DEBUG PROGRAM
-Q2 PARKING REPORT
-Q3 SCHOLARSHIP
-Q4 HEART RATE
-Q5 EXPENSE TRACKER
+# Assignment02-File-Handling
+File Handling
+
+Name    : MUHAMMAD ABU ZAR
+Reg No  : L1F25BSCS0248
+
+## Programs
+- Q1_stock_debug.cpp
+- Q2_parking_report.cpp
+- Q3_scholarship.cpp
+- Q4_heart_rate.cpp
+- Q5_expense_tracker.cpp
